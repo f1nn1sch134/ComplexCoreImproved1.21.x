@@ -12,7 +12,7 @@ Individual plugin version:
 
 Changelog:
 
-Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.16 - 1.21.11
+Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.21.0-1.21.11
 
 Requirements: This plugin requires PySpigot in the plugin folder to run. The .py files must be placed in the files/plugins/PySpigot/scripts/ folder.
 
