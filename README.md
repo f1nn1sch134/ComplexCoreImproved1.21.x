@@ -1,4 +1,4 @@
-# ComplexCoreImproved1.12-1.21.11
+# ComplexCoreImproved1.21.x
 
 For more versions, please visit: https://github.com/f1nn1sch134/ComplexCoreImproved
 
@@ -6,13 +6,15 @@ ComplexCoreImproved is a improved, powerful and continuously evolving Minecraft 
 
 The plugin is actively maintained and regularly improved with new features, optimizations, and bug fixes.
 
-General plugin version: 0.0.0 (Here you can quickly see if the plugin has been updated)
+General plugin version: 0.0 (Here you can quickly see if the plugin has been updated)
+
+Premium plugin version: 4.0 (The premium version of ComplexCoreImproved)
 
 Individual plugin version:
 
 Changelog:
 
-Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.21.0-1.21.11
+Minecraft server: Minecraft Java Bukkit, Spigot, Paper 1.21.x
 
 Requirements: This plugin requires PySpigot in the plugin folder to run. The .py files must be placed in the files/plugins/PySpigot/scripts/ folder.
 
